@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-white_header: true
+white_header: false
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
