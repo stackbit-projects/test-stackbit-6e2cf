@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://test-stackbit-6e2cf.netlify.app"
 }
