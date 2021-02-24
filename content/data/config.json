@@ -21,7 +21,8 @@
         {
             "title": "About",
             "url": "/about",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         },
         {
             "title": "FAQ",
