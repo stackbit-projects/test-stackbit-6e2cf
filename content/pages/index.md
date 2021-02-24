@@ -3,6 +3,10 @@ layout: home
 title: Home
 white_header: true
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
@@ -57,10 +61,6 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    featured_categories: []
-    type: featured_categories_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
